@@ -1,7 +1,7 @@
 ![Full stack developer](https://media.licdn.com/dms/image/v2/D5616AQG8pE4Lqf8K5A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725342159380?e=1733356800&v=beta&t=gyNKenVk5qC9TOvgE0iEJ0zBe7LylFQrWcG7Yp-kD18)
 
 ### Hi there 👋, I am Abdullah Al Mamun
-#### Full stack developer
+#### Full stack developer (Fresher)
 
 
 As a passionate Full Stack developer with a keen interest in .NET 
